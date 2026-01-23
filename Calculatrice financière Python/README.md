@@ -24,12 +24,18 @@ Ce projet met en œuvre des concepts avancés de programmation Python pour la fi
 * **Visualisation Matplotlib** : Génération de graphiques financiers exportés en `.png` pour analyser l'effet de diversification selon le coefficient de corrélation ($\rho$).
 * **Robustesse du code** : Implémentation de blocs `try...except` pour la gestion des erreurs de saisie et utilisation de la *list comprehension* pour le traitement des flux de trésorerie.
 
-## 📊 Visualisation & Sorties
+## 📊 Sorties
 
 L'outil ne se contente pas de calculer ; il produit des livrables exploitables :
 * **Graphique** : La frontière efficiente identifiant le Portefeuille de Variance Minimale (MVP).
 * **Données** : Des tableaux de remboursement propres et formatés.
 
+## 📈 Visualisation : Frontière Efficiente
+
+Voici un exemple de simulation générée par l'outil (Simulation : Actif 1 à 12%, Actif 2 à 4%, Corrélation 0.2). 
+L'étoile orange représente le **Portefeuille de Variance Minimale (MVP)** calculé par l'algorithme.
+
+![Frontière Efficiente](./frontiere_efficiente.png)
 ---
 
 ## 📂 Contenu du dossier
