@@ -22,4 +22,4 @@ Projets réalisés au cours de mon cursus, présentant mes différentes compéte
 * **Domaine :** Gestion de données & SQL
 * **Description :** Modélisation complète et implémentation d'un système de gestion pour galerie d'art (34 000+ données potentielles).
 * **Compétences :** Modélisation UML, Schéma Relationnel, Requêtes SQL complexes (Jointures, Sous-requêtes).
-* [👉 Accéder au projet](./Gestion-Galerie-Art-SQL/)
+* [👉 Accéder au projet](./Projet%20SQL/)
