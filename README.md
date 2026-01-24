@@ -17,3 +17,9 @@ Projets réalisés au cours de mon cursus, présentant mes différentes compéte
 * **Outils :** Python, NumPy (calcul vectoriel), Pandas (gestion de données), Matplotlib (visualisation).
 * **Points clés :** Génération automatique de tableaux d'amortissement (export Excel) et modélisation de la frontière efficiente de Markowitz.
 * [👉 Accéder à la Calculatrice Python](./Calculatrice%20financi%C3%A8re%20Python/)
+
+### 🖼️ Gestion de Base de Données SQL : Galerie d'Art
+* **Domaine :** Gestion de données & SQL
+* **Description :** Modélisation complète et implémentation d'un système de gestion pour galerie d'art (34 000+ données potentielles).
+* **Compétences :** Modélisation UML, Schéma Relationnel, Requêtes SQL complexes (Jointures, Sous-requêtes).
+* [👉 Accéder au projet](./Gestion-Galerie-Art-SQL/)
