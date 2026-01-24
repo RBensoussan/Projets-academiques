@@ -27,4 +27,3 @@ Le projet inclut des requêtes avancées telles que :
 * Calcul de la valeur moyenne des éditions par œuvre avec filtrage.
 * Suivi des ventes réalisées par exposition spécifique.
 
-🔗 **[Consulter le rapport complet (PDF)](./Rendu%20SQL.pdf)**
