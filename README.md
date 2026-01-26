@@ -30,7 +30,7 @@ Projets réalisés au cours de mon cursus, présentant mes différentes compéte
   
 
 ### 📊 Strategic Financial Analysis (Quantitative Modeling)
-* **Objective:** Modélisation quantitative de 5 études de cas financiers complexes : évaluation d'actions, arbitrage de dette, NPV industrielle (nucléaire), optimisation de portefeuille (Markowitz) et pricing d'options.
+* **Objective:** Quantitative modeling of 5 complex financial case studies: equity valuation, debt arbitrage, industrial NPV (nuclear), portfolio optimization (Markowitz), and option pricing.
 * **Tools:** Advanced Excel (Algèbre matricielle, Modèles stochastiques, Analyse de sensibilité).
 * **Key Achievement:** Conception d'un outil décisionnel unifié incluant une frontière efficiente automatisée et un pricer d'options binomial sur Bitcoin pour la gestion des risques de marché.
 * [👉 Accéder au projet Strategic Financial Analysis](./Strategic%20Financial%20Analysis/)
