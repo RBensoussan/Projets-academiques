@@ -34,3 +34,10 @@ Projets réalisés au cours de mon cursus, présentant mes différentes compéte
 * **Tools:** Advanced Excel (Algèbre matricielle, Modèles stochastiques, Analyse de sensibilité).
 * **Key Achievement:** Conception d'un outil décisionnel unifié incluant une frontière efficiente automatisée et un pricer d'options binomial sur Bitcoin pour la gestion des risques de marché.
 * [👉 Accéder au projet Strategic Financial Analysis](./Strategic%20Financial%20Analysis/)
+
+
+### 📈 Option Pricing & Quantitative Modeling (AAPL)
+* **Objective:** Developed a high-performance quantitative framework to price European options for Apple Inc. using both the Black-Scholes-Merton (BSM) analytical formula and the Cox-Ross-Rubinstein (CRR) binomial model.
+* **Tools:** Python (Advanced OOP), NumPy, Pandas, Matplotlib, SciPy, Statsmodels, yfinance, FRED API.
+* **Key Achievement:** Built a modular Object-Oriented architecture featuring automated data pipelines, custom performance decorators (@timer), and rigorous statistical validation (ADF stationarity tests & QQ-Plot normality analysis). Successfully demonstrated the mathematical convergence of numerical trees toward analytical solutions while visualizing Delta-hedging sensitivities.
+* [👉 Accéder au projet Option Pricing BSM vs CRR](./Option%20Pricing%20BSM%20vs%20CRR/)
