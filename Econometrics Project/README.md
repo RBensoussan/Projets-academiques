@@ -61,10 +61,3 @@ To review the methodology or reproduce the findings, navigate to the SAS source 
 
 3. **Diagnostic Testing:** Residual extraction, normality plotting, VIF analysis, and HCCME corrections (`PROC UNIVARIATE`, `PROC SYSLIN 2SLS`).
 
-
-
----
-
-This perfectly highlights that you are not just running standard SQL queries, but deeply analyzing a 34,000+ row dataset using advanced econometric theory.
-
-If this hits the exact mark you are looking for, please go ahead and share the materials for the next project!
