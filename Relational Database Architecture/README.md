@@ -52,7 +52,3 @@ Pour reproduire ce schéma et tester les requêtes :
 
 
 4. Lancer les requêtes analytiques (DQL) documentées en fin de script pour tester la logique métier.
-
-
-
-Que pensez-vous de ce recadrage ? Si l'équilibre entre le vocabulaire base de données (DDL, clés étrangères) et l'aspect financier vous convient, nous pouvons le valider et passer à votre prochain projet !
